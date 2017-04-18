@@ -1,0 +1,22 @@
+{
+  "name": "luas-keliling",
+  "version": "1.1.0",
+  "description": "npm package untuk menghitung luas dan keliling bangun datar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laksonosuryadi/npm-luas-keliling.git"
+  },
+  "keywords": [
+    "luaskeliling"
+  ],
+  "author": "Laksono Suryadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laksonosuryadi/npm-luas-keliling/issues"
+  },
+  "homepage": "https://github.com/laksonosuryadi/npm-luas-keliling#readme"
+}
